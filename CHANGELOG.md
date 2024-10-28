@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.30.2 (2024-10-28)
+
+Full Changelog: [sdk-v0.30.1...sdk-v0.30.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.30.1...sdk-v0.30.2)
+
+### Reverts
+
+* disable isolatedModules and change imports ([#575](https://github.com/anthropics/anthropic-sdk-typescript/issues/575)) ([2c3b176](https://github.com/anthropics/anthropic-sdk-typescript/commit/2c3b176fc551c21abef240b4fa6a98d33ca52048))
+
+
+### Chores
+
+* **internal:** update spec version ([#571](https://github.com/anthropics/anthropic-sdk-typescript/issues/571)) ([5760012](https://github.com/anthropics/anthropic-sdk-typescript/commit/576001245f0b5222cb9b17fafb8619f68d51bec3))
+
+
+### Refactors
+
+* enable isolatedModules and change imports ([#573](https://github.com/anthropics/anthropic-sdk-typescript/issues/573)) ([9068b4b](https://github.com/anthropics/anthropic-sdk-typescript/commit/9068b4b0a0a08a69a9330ce03418135e11aa539e))
+
 ## 0.30.1 (2024-10-23)
 
 Full Changelog: [sdk-v0.30.0...sdk-v0.30.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.30.0...sdk-v0.30.1)
